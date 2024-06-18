@@ -1,0 +1,5 @@
+Cambios en el proyecto:
+
+1. Se agregó el paquete dao, las clases DAO, la interfaz DAOCrud y la clase Conexion para la conexión con la base de datos, usando el patrón de diseño Singleton
+2. Se agregaron 3 atributos a la clase Modelo
+3. Se modificó el metodo validarCredenciales de la clase Modelo
