@@ -3,4 +3,4 @@ El programa desarrollado cumple con las funciones para la toma de asistencias y 
 ## ¿Qué hay dentro del proyecto al momento de descargarlo?
 Al momento de descargar el proyecto habrán tres archivos principales, los cuales son:  
 1. ProyectoFinal: es la carpeta que contendrá todo el proyecto Java, y dentro de la carpeta "src" estará el código fuente principal del programa.
-2. registroasistencias: es un archivo .sql, el cual contiene las líneas para crear la base de datos correspondiente, la tabla 'tbl_administrador', la tabla *tbl_docente*.
+2. registroasistencias: es un archivo .sql, el cual contiene las líneas para crear la base de datos correspondiente, la tabla 'tbl_administrador', la tabla #tbl_docente.
